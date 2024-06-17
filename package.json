@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "nodemon": "^3.1.3",
+    "url": "^0.11.3"
+  },
+  "name": "node-basic-project",
+  "version": "1.0.0",
+  "main": "http.js",
+  "devDependencies": {},
+  "scripts": {
+    "start":"nodemon http.js"
+  },
+  "author": "Vaibhav Rajput",
+  "license": "ISC",
+  "description": " Basic HTTP server with logging and request handling"
+}
